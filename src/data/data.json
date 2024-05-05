@@ -1,0 +1,50 @@
+{
+  "Header": {
+    "title": "ALX Software Engineering Final Project",
+    "paragraph": "Welcome to my final project for ALX Software Engineering! This 3D ray-casting game is developed using SDL2 and C, chosen for their low-level access to hardware and graphics, as well as for learning purposes regarding game development and ray tracing."
+  },
+  "About": {
+    "paragraph": "This project was inspired by a passion for game development and a desire to learn low-level programming with SDL2 and C. It is a Portfolio Project for Holberton School. You can find more about Holberton School ",
+    "Why": [
+      "I like puzzles, and creating a maze game allows me to design intricate puzzles for players to solve.",
+      "Developing a 3D game is challenging, but challenges help us grow. It pushes me to learn and improve my skills."
+    ],
+    "Why2": [
+      "C is a great language , C++ is lovely too, making a game in either is so exciting",
+      "Raycasting is so fun"
+    ]
+  },
+
+
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Kamogelo Ellen Kganakga",
+      "job": "Backend developer Frontend developer, Ux Designer"
+    }
+
+  ],
+
+  "Features": [
+    {
+      "icon": "fa fa-user",
+      "title": "Player Movement",
+      "text": "User can move around , does not go through walls,"
+    },
+    {
+      "icon": "fa fa-bolt",
+      "title": "Ray Casting",
+      "text": "Using ray casting to project a 3D world onto a 2D projection plane."
+    },
+    {
+      "icon": "fa fa-building",
+      "title": "Wall",
+      "text": "Use keyboard input (e.g., arrow keys) to rotate the camera left or right."
+    },
+    {
+      "icon": "fa fa-globe",
+      "title": "Map",
+      "text": "Change map layout."
+    }
+  ]
+}
