@@ -14,7 +14,7 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="https://github.com/KamoEllen/Maze-C"
+                  href="https://github.com/KamoEllen/Game-3D-Maze"
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   PROJECT LINK
